@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  text-decoration: none;
+}
+
+body {
+  width: 500px;
+  margin: 0px auto;
+}
+
+a:hover, a:focus {
+  background: blue;
+  color: white;
+}
